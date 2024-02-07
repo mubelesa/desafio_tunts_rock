@@ -1,3 +1,4 @@
 Desafio Tunts Rock 2024 para o projeto DEV TRAINING.
-Não é necessário inserir nenhum comando para o funcionamento do programa, apenas executar que o mesmo já fará os cálculos, editará e exibirá a situação do aluno direto no link da planilha através da API do Google Sheets.
-Link da planilha: https://docs.google.com/spreadsheets/d/1TBZV2gld0izZ_mTyckMrIfVKmoHTb7U1OYXRlpGLVW0/edit#gid=0
+No commands need to be entered for the program to function; simply executing it will perform the calculations, edit, and display the student's status directly in the spreadsheet link via the Google Sheets API.
+This code was made using specific libraries, conditional control flow, repetitive structures, mathematical operations, string manipulation, enumerations, exception handling, dependency injection, etc.
+Spreadsheet link: https://docs.google.com/spreadsheets/d/1TBZV2gld0izZ_mTyckMrIfVKmoHTb7U1OYXRlpGLVW0/edit#gid=0
